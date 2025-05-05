@@ -13,7 +13,7 @@ import verified_icon from "./verified_icon.svg";
 import arrow_icon from "./arrow_icon.svg";
 import info_icon from "./info_icon.svg";
 import upload_icon from "./upload_icon.png";
-import stripe_logo from "./stripe_logo.png";
+import stripe_logo from "./stripe_logo1.png";
 import razorpay_logo from "./razorpay_logo.png";
 import doc1 from "./doc1.png";
 import doc2 from "./doc2.png";
