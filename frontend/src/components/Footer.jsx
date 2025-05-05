@@ -32,7 +32,7 @@ const Footer = () => {
           <ul className="flex flex-col gap-2 text-gray-600">
             <li>+91 6204557626</li>
             <li>aumhealthcare@gmail.com</li>
-            <li><a href="https://web.whatsapp.com" target="_blank">Open WhatsApp Web</a></li>
+            <li><a href="https://web.whatsapp.com" target="_blank">Chat With Us on WhatsApp</a></li>
           </ul>
         </div>
       </div>
