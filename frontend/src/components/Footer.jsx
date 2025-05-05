@@ -33,6 +33,15 @@ const Footer = () => {
             <li>+91 6204557626</li>
             <li>aumhealthcare@gmail.com</li>
             <li><a href="https://web.whatsapp.com" target="_blank">Chat With Us on WhatsApp</a></li>
+            <li>
+  <a href="https://web.whatsapp.com" target="_blank"
+     style="background-color: #25D366; color: white; border: none; padding: 10px 16px; 
+            font-size: 14px; border-radius: 6px; text-decoration: none; 
+            display: inline-block;">
+    Chat With Us 
+  </a>
+</li>
+
           </ul>
         </div>
       </div>
